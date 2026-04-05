@@ -1,4 +1,4 @@
-﻿namespace ProjectOne;
+namespace ProjectOne;
 
 while (true)
 {
@@ -103,5 +103,3 @@ while (true)
         
     }
 }
-        
-    
